@@ -1,28 +1,28 @@
 {
     "users": [
         {
-            "email": "weightbridge@guardtime.com",
+            "email": "weightbridge@mail.com",
             "password": "password1",
             "role": "Weightbridge",
-            "username": "Daario Naharis"
+            "username": "Jon Basilone"
         },
         {
-            "email": "production@guardtime.com",
+            "email": "production@mail.com",
             "password": "password1",
             "role": "Production",
-            "username": "Mance Rayder"
+            "username": "Lance Carlos"
         },
         {
-            "email": "sales@guardtime.com",
+            "email": "sales@mail.com",
             "password": "password1",
             "role": "Sales",
-            "username": "Beric Dondarrion"
+            "username": "Beatrice Smith"
         },
         {
-            "email": "governance@guardtime.com",
+            "email": "governance@mail.com",
             "password": "password1",
             "role": "Governance",
-            "username": "Barristan Selmy"
+            "username": "Gunner Hanson"
         }
     ],
     "wineName": {
@@ -30,7 +30,19 @@
             "wineryName": [
                 "Grosset Wines"
             ],
-            "wineYear": [1989,1990,1991,2000,2001,2002,2003,2004,2005,2006,2019],   
+            "wineYear": [
+                1989,
+                1990,
+                1991,
+                2000,
+                2001,
+                2002,
+                2003,
+                2004,
+                2005,
+                2006,
+                2019
+            ],
             "wineNotes": [
                 "Good nose",
                 "Good batch",
@@ -39,15 +51,93 @@
                 "Awesome",
                 "Fermented"
             ],
-            "baumeLevel": [1,2,3,4,5,6,7,8,9,0],
-            "phLevel": [0,1,2,3,4,5],
-            "vesselType": ["Oak", "Concrete","Stainless Steel","Amphorae"],
-            "alcPercent": [1,3,4,5,6,7,8,9],
-            "turbidity": [1,2,3,4,5,6,7,8,9,10],
-            "TA": [1,2,3,4,5,6],
-            "VA": [0,1,2,3,4,5,6],
-            "SO2": [0,1,2,3,4,5,6],
-            "grapeYear": [1989,1990,1991,2000,2001,2002,2003,2004,2005,2006,2019],
+            "baumeLevel": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                0
+            ],
+            "phLevel": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "vesselType": [
+                "Oak",
+                "Concrete",
+                "Stainless Steel",
+                "Amphorae"
+            ],
+            "alcPercent": [
+                1,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9
+            ],
+            "turbidity": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10
+            ],
+            "TA": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6
+            ],
+            "VA": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6
+            ],
+            "SO2": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6
+            ],
+            "grapeYear": [
+                1989,
+                1990,
+                1991,
+                2000,
+                2001,
+                2002,
+                2003,
+                2004,
+                2005,
+                2006,
+                2019
+            ],
             "default": {
                 "alcPercent": 12.46,
                 "baumeLevel": 0,
@@ -69,12 +159,23 @@
                 }
             }
         },
-        
         "Grosset Apiana": {
             "wineryName": [
                 "Grosset Wines"
             ],
-            "wineYear": [1989,1990,1991,2000,2001,2002,2003,2004,2005,2006,2019],   
+            "wineYear": [
+                1989,
+                1990,
+                1991,
+                2000,
+                2001,
+                2002,
+                2003,
+                2004,
+                2005,
+                2006,
+                2019
+            ],
             "wineNotes": [
                 "Good batch",
                 "Soft body made in good year and good season",
@@ -82,15 +183,93 @@
                 "Awesome",
                 "Fermented"
             ],
-            "baumeLevel": [1,2,3,4,5,6,7,8,9,0],
-            "phLevel": [0,1,2,3,4,5],
-            "vesselType": ["Oak", "Concrete","Stainless Steel","Amphorae"],
-            "alcPercent": [2.2,3,4,5,6,7,8,9],
-            "turbidity": [1,2,3,4,5,6,7,8,9,10],
-            "TA": [1,2,3,4,5,6],
-            "VA": [0,1,2,3,4,5,6],
-            "SO2": [0,1,2,3,4,5,6],
-            "grapeYear": [1989,1990,1991,2000,2001,2002,2003,2004,2005,2006,2019],
+            "baumeLevel": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                0
+            ],
+            "phLevel": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "vesselType": [
+                "Oak",
+                "Concrete",
+                "Stainless Steel",
+                "Amphorae"
+            ],
+            "alcPercent": [
+                2.2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9
+            ],
+            "turbidity": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10
+            ],
+            "TA": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6
+            ],
+            "VA": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6
+            ],
+            "SO2": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6
+            ],
+            "grapeYear": [
+                1989,
+                1990,
+                1991,
+                2000,
+                2001,
+                2002,
+                2003,
+                2004,
+                2005,
+                2006,
+                2019
+            ],
             "default": {
                 "alcPercent": 12.99,
                 "baumeLevel": 12.1,
@@ -107,11 +286,11 @@
                 "wineryName": "Grosset Wines",
                 "wineYear": 2019,
                 "bottledLocation": {
-                  "Longitude": -32.11,
-                  "Latitude": 139.13
+                    "Longitude": -32.11,
+                    "Latitude": 139.13
                 }
             }
-        }      
+        }
     },
     "newPackages": [
         {
