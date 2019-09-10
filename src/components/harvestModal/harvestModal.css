@@ -1,0 +1,109 @@
+/* harvest modal */
+
+.ant-form-item-label > label {
+  color: #525866;
+  font-size: 16px;
+}
+
+.ant-form-item-label {
+  line-height: 25px;
+}
+
+.ant-modal-body {
+  font-family: "Roboto", sans-serif;
+}
+.ant-modal-header {
+  border-bottom: none;
+  height: 45px;
+}
+.ant-modal-title {
+  font-size: 18px;
+  font-weight: 700;
+}
+.ant-row {
+  line-height: 1.2;
+  margin-bottom: 15px;
+}
+
+.ant-modal-footer {
+  padding: 0;
+  border-top: none;
+}
+
+#ant-button-left {
+  border-radius: 0 0 0 4px;
+  background-color: #525866;
+  border-color: #525866;
+}
+
+#ant-button-right {
+  border-radius: 0 0 4px 0;
+  background-color: #c6c6c6;
+  border-color: #c6c6c6;
+}
+
+.harvest-modal-form .ant-modal-footer .ant-btn {
+  font-family: "Roboto", sans-serif;
+  width: 50%;
+  padding: 0;
+  margin: 0;
+  height: 45px;
+  color: #ffffff;
+}
+
+/* received modal */
+
+.ant-modal-confirm .ant-modal-body {
+  height: 100%;
+}
+
+.ant-modal-confirm-success .ant-modal-confirm-body > .anticon {
+  width: 100%;
+  font-size: 50px;
+}
+
+.ant-modal-confirm-body .ant-modal-confirm-title {
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  color: #333333;
+  margin-top: 15px;
+  display: inline-block;
+  width: 100%;
+  text-align: center;
+}
+
+.ant-modal-confirm-body
+  > .anticon
+  + .ant-modal-confirm-title
+  + .ant-modal-confirm-content {
+  text-align: center;
+  margin-left: 0;
+  font-size: 16px;
+}
+
+.ant-modal-confirm .ant-modal-confirm-btns {
+  float: none;
+  width: 375px;
+  position: relative;
+}
+
+.ant-modal-confirm .ant-modal-confirm-btns .ant-btn-primary {
+  content: "Close";
+  right: 32px;
+  height: 40px;
+  border-radius: 0px 0px 4px 4px;
+  top: -5px;
+  position: absolute;
+  width: 375px;
+  background-color: #e41e13;
+  border: none;
+}
+
+.ant-modal-confirm-btns .ant-btn > span {
+  display: none;
+}
+
+.ant-modal-confirm-btns .ant-btn:after {
+  content: "Close";
+}

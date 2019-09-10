@@ -1,0 +1,74 @@
+/* Antd library module classes */
+
+.ant-card {
+  margin: 0 auto;
+  box-shadow: 0px 6px 5px 1px rgba(221, 221, 221, 0.58);
+}
+
+.ant-card-body {
+  padding: 30px;
+}
+
+.ant-alert-with-description .ant-alert-icon {
+  font-size: 20px;
+  left: 0;
+  top: 19px;
+}
+
+.ant-alert-description {
+  font-size: 16px;
+}
+
+.ant-card-meta-description {
+  color: #a6aab3;
+}
+
+.ant-card-meta-detail > div:not(:last-child) {
+  margin-bottom: 0;
+}
+
+.ant-timeline-item {
+  padding: 0 0 5px;
+}
+
+.anticon-more:hover {
+  cursor: pointer;
+}
+
+.ant-card-meta-title {
+  color: #6b717d;
+}
+
+.ant-timeline-item-content {
+  top: -8px;
+  margin: 0px 0 0 25px;
+}
+
+/* local classes */
+
+
+.details-list li {
+  line-height: 1.8;
+  color: #525866;
+}
+
+.link-color-size {
+  color: #659DFF;
+  font-size: 16px;
+}
+
+.details-list-spec {
+  color: #a6a6a6;
+  margin-right: 5px;
+  font-size: 14px;
+}
+
+.ksi-link {
+  margin-right: 15px;
+  font-size: 16px;
+}
+
+
+li:last-child > .ant-timeline-item-tail {
+    display: none;
+}

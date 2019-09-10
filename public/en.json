@@ -1,0 +1,19 @@
+{  
+    "translations": {
+        "Variety": "Variety",
+        "Vineyard": "Vineyard",
+        "Location": "Location",
+        "Year planted": "Year planted",
+        "Received": "Received"
+    },
+    "i18nOptions": {
+        "debug": true,
+        "lng": "en",
+        "fallbackLng": "en",
+        "keySeparator": false,
+        "defaultNS": "translations",
+        "react": {
+            "wait": true
+        }
+    }
+}

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns" viewBox="0 0 49 65"
+  version="1.1" x="0px" y="0px">
+  <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+    <g sketch:type="MSLayerGroup" transform="translate(1.000000, 1.000000)" stroke="#000000">
+      <path d="M17,5 L35.5,5" stroke-width="2" stroke-linecap="square" sketch:type="MSShapeGroup"/>
+      <path d="M17,12 L35.5,12" stroke-width="2" stroke-linecap="square" sketch:type="MSShapeGroup"/>
+      <path d="M17,19 L35.5,19" stroke-width="2" stroke-linecap="square" sketch:type="MSShapeGroup"/>
+      <path d="M5,26 L32.5,26" stroke-width="2" stroke-linecap="square" sketch:type="MSShapeGroup"/>
+      <path d="M5,33 L26.5,33" stroke-width="2" stroke-linecap="square" sketch:type="MSShapeGroup"/>
+      <path
+        d="M4.39792709,43.2686503 C5.24283895,43.0199467 5.71023855,42.004843 6.5551504,41.7561394 C7.26251725,41.5479227 9.0547632,41.8978895 9.0547632,41.8978895 L11.4592269,42.6305136 L13.4315386,43.0565631 C13.4315386,43.0565631 14.2567652,41.8785191 14.8806763,41.8978895 C15.5045875,41.9172599 17.1747667,43.6111887 17.1747667,43.6111887 L20.3079269,42.6305136"
+        stroke-width="1.2" sketch:type="MSShapeGroup"/>
+      <path d="M27,39.4117647 L44.5,19.5" stroke-width="3.75" stroke-linecap="square" sketch:type="MSShapeGroup"/>
+      <path d="M23.748388,40.1879954 L24.0665743,43.8499543 L26.7055244,40.9457831" stroke-width="0.75" sketch:type="MSShapeGroup"
+        transform="translate(25.226956, 42.018975) rotate(26.000000) translate(-25.226956, -42.018975) "/>
+      <path
+        d="M40.1516484,19.1746051 L40.1552322,2.09938559 C40.1554648,0.991526881 39.263054,0.0918151265 38.1559883,0.0898123075 L2.10778714,0.0245966488 C1.00340268,0.0225986806 0.10697633,0.909484546 0.105536249,2.02614107 L0.0462668184,47.984394 C0.0448386489,49.0918145 0.93710781,49.9887528 2.04520012,49.9877564 L38.1268284,49.9553124 C39.2322369,49.9543184 40.1285275,49.0592854 40.12875,47.9531793 L40.1323524,30.0422463"
+        stroke-width="2" sketch:type="MSShapeGroup"/>
+    </g>
+  </g>
+</svg>

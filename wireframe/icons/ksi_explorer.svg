@@ -1,0 +1,374 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1600" height="1000" viewBox="0 0 2000 1200">
+  <style>
+    .link {
+      fill: none;
+      stroke: #ccc;
+      stroke-width: 1.5px;
+    }
+    circle {
+      fill: #fff;
+      stroke: red;
+      stroke-width: 1.5px;
+    }
+    text {
+      font-size: 14px;
+      font-family: 'Roboto', sans-serif;
+    }
+  </style>
+  <g transform="translate(120,0) scale(1)">
+    <path class="link" d="M0,632.6923076923076C175,632.6923076923076 175,146.875 350,146.875"></path>
+    <path class="link" d="M0,632.6923076923076C175,632.6923076923076 175,253.07692307692307 350,253.07692307692307"></path>
+    <path class="link" d="M0,632.6923076923076C175,632.6923076923076 175,359.27884615384613 350,359.27884615384613"></path>
+    <path class="link" d="M0,632.6923076923076C175,632.6923076923076 175,465.48076923076917 350,465.48076923076917"></path>
+    <path class="link" d="M0,632.6923076923076C175,632.6923076923076 175,571.6826923076923 350,571.6826923076923"></path>
+    <path class="link" d="M0,632.6923076923076C175,632.6923076923076 175,677.8846153846154 350,677.8846153846154"></path>
+    <path class="link" d="M0,632.6923076923076C175,632.6923076923076 175,1118.5096153846155 350,1118.5096153846155"></path>
+    <path class="link" d="M350,1118.5096153846155C525,1118.5096153846155 525,1084.6153846153848 700,1084.6153846153848"></path>
+    <path class="link" d="M350,1118.5096153846155C525,1118.5096153846155 525,1107.2115384615386 700,1107.2115384615386"></path>
+    <path class="link" d="M350,1118.5096153846155C525,1118.5096153846155 525,1129.8076923076924 700,1129.8076923076924"></path>
+    <path class="link" d="M350,1118.5096153846155C525,1118.5096153846155 525,1152.4038461538462 700,1152.4038461538462"></path>
+    <path class="link" d="M700,1084.6153846153848C875,1084.6153846153848 875,1062.0192307692307 1050,1062.0192307692307"></path>
+    <path class="link" d="M700,1084.6153846153848C875,1084.6153846153848 875,1084.6153846153848 1050,1084.6153846153848"></path>
+    <path class="link" d="M700,1084.6153846153848C875,1084.6153846153848 875,1107.2115384615386 1050,1107.2115384615386"></path>
+    <path class="link" d="M1050,1084.6153846153848C1100,1084.6153846153848 1100,1084.6153846153848 1150,1084.6153846153848"></path>
+    <path class="link" d="M1150,1084.6153846153848C1200,1084.6153846153848 1200,1084.6153846153848 1250,1084.6153846153848"></path>
+    <path class="link" d="M350,677.8846153846154C525,677.8846153846154 525,316.34615384615375 700,316.34615384615375"></path>
+    <path class="link" d="M350,677.8846153846154C525,677.8846153846154 525,338.9423076923076 700,338.9423076923076"></path>
+    <path class="link" d="M350,677.8846153846154C525,677.8846153846154 525,361.5384615384615 700,361.5384615384615"></path>
+    <path class="link" d="M350,677.8846153846154C525,677.8846153846154 525,406.73076923076917 700,406.73076923076917"></path>
+    <path class="link" d="M350,677.8846153846154C525,677.8846153846154 525,429.326923076923 700,429.326923076923"></path>
+    <path class="link" d="M350,677.8846153846154C525,677.8846153846154 525,451.92307692307685 700,451.92307692307685"></path>
+    <path class="link" d="M350,677.8846153846154C525,677.8846153846154 525,474.5192307692307 700,474.5192307692307"></path>
+    <path class="link" d="M350,677.8846153846154C525,677.8846153846154 525,497.1153846153845 700,497.1153846153845"></path>
+    <path class="link" d="M350,677.8846153846154C525,677.8846153846154 525,519.7115384615383 700,519.7115384615383"></path>
+    <path class="link" d="M350,677.8846153846154C525,677.8846153846154 525,542.3076923076923 700,542.3076923076923"></path>
+    <path class="link" d="M350,677.8846153846154C525,677.8846153846154 525,564.9038461538461 700,564.9038461538461"></path>
+    <path class="link" d="M350,677.8846153846154C525,677.8846153846154 525,587.4999999999999 700,587.4999999999999"></path>
+    <path class="link" d="M350,677.8846153846154C525,677.8846153846154 525,610.0961538461538 700,610.0961538461538"></path>
+    <path class="link" d="M350,677.8846153846154C525,677.8846153846154 525,632.6923076923076 700,632.6923076923076"></path>
+    <path class="link" d="M350,677.8846153846154C525,677.8846153846154 525,655.2884615384614 700,655.2884615384614"></path>
+    <path class="link" d="M350,677.8846153846154C525,677.8846153846154 525,677.8846153846154 700,677.8846153846154"></path>
+    <path class="link" d="M350,677.8846153846154C525,677.8846153846154 525,700.4807692307692 700,700.4807692307692"></path>
+    <path class="link" d="M350,677.8846153846154C525,677.8846153846154 525,723.076923076923 700,723.076923076923"></path>
+    <path class="link" d="M350,677.8846153846154C525,677.8846153846154 525,745.6730769230769 700,745.6730769230769"></path>
+    <path class="link" d="M350,677.8846153846154C525,677.8846153846154 525,768.2692307692308 700,768.2692307692308"></path>
+    <path class="link" d="M350,677.8846153846154C525,677.8846153846154 525,790.8653846153846 700,790.8653846153846"></path>
+    <path class="link" d="M350,677.8846153846154C525,677.8846153846154 525,813.4615384615385 700,813.4615384615385"></path>
+    <path class="link" d="M350,677.8846153846154C525,677.8846153846154 525,836.0576923076924 700,836.0576923076924"></path>
+    <path class="link" d="M350,677.8846153846154C525,677.8846153846154 525,858.6538461538462 700,858.6538461538462"></path>
+    <path class="link" d="M350,677.8846153846154C525,677.8846153846154 525,881.25 700,881.25"></path>
+    <path class="link" d="M350,677.8846153846154C525,677.8846153846154 525,903.8461538461538 700,903.8461538461538"></path>
+    <path class="link" d="M350,677.8846153846154C525,677.8846153846154 525,926.4423076923077 700,926.4423076923077"></path>
+    <path class="link" d="M350,677.8846153846154C525,677.8846153846154 525,949.0384615384615 700,949.0384615384615"></path>
+    <path class="link" d="M350,677.8846153846154C525,677.8846153846154 525,971.6346153846154 700,971.6346153846154"></path>
+    <path class="link" d="M350,677.8846153846154C525,677.8846153846154 525,994.2307692307693 700,994.2307692307693"></path>
+    <path class="link" d="M350,677.8846153846154C525,677.8846153846154 525,1016.8269230769231 700,1016.8269230769231"></path>
+    <path class="link" d="M350,677.8846153846154C525,677.8846153846154 525,1039.423076923077 700,1039.423076923077"></path>
+    <path class="link" d="M350,146.875C525,146.875 525,22.596153846153847 700,22.596153846153847"></path>
+    <path class="link" d="M350,146.875C525,146.875 525,45.19230769230769 700,45.19230769230769"></path>
+    <path class="link" d="M350,146.875C525,146.875 525,67.78846153846155 700,67.78846153846155"></path>
+    <path class="link" d="M350,146.875C525,146.875 525,90.38461538461539 700,90.38461538461539"></path>
+    <path class="link" d="M350,146.875C525,146.875 525,135.5769230769231 700,135.5769230769231"></path>
+    <path class="link" d="M350,146.875C525,146.875 525,158.17307692307693 700,158.17307692307693"></path>
+    <path class="link" d="M350,146.875C525,146.875 525,180.76923076923077 700,180.76923076923077"></path>
+    <path class="link" d="M350,146.875C525,146.875 525,203.3653846153846 700,203.3653846153846"></path>
+    <path class="link" d="M350,146.875C525,146.875 525,225.96153846153845 700,225.96153846153845"></path>
+    <path class="link" d="M350,146.875C525,146.875 525,248.55769230769232 700,248.55769230769232"></path>
+    <path class="link" d="M350,146.875C525,146.875 525,271.1538461538462 700,271.1538461538462"></path>
+    <path class="link" d="M700,90.38461538461539C750,90.38461538461539 750,90.38461538461539 800,90.38461538461539"></path>
+    <path class="link" d="M800,90.38461538461539C850,90.38461538461539 850,90.38461538461539 900,90.38461538461539"></path>
+    <path class="link" d="M700,135.5769230769231C750,135.5769230769231 750,135.5769230769231 800,135.5769230769231"></path>
+    <path class="link" d="M800,135.5769230769231C850,135.5769230769231 850,135.5769230769231 900,135.5769230769231"></path>
+    <path class="link" d="M700,406.73076923076917C750,406.73076923076917 750,406.73076923076917 800,406.73076923076917"></path>
+    <path class="link" d="M700,361.5384615384615C750,361.5384615384615 750,361.5384615384615 800,361.5384615384615"></path>
+    <path class="link" d="M800,406.73076923076917C850,406.73076923076917 850,406.73076923076917 900,406.73076923076917"></path>
+    <path class="link" d="M800,361.5384615384615C850,361.5384615384615 850,361.5384615384615 900,361.5384615384615"></path>
+    <g class="node" transform="translate(0, 632.6923217773438)">
+      <text x="-10" dy=".35em" class="nodeText" text-anchor="end" style="fill-opacity: 1;">KSI signature</text>
+      <image href="http://volta.guardtime.com/images/guardtime_checkmark_full_color.jpeg" x="-8px" y="-8px" width="16" height="16px"></image>
+    </g>
+    <g class="node" transform="translate(350, 146.875)">
+      <circle class="nodeCircle" r="4.5" cursor="pointer" style="fill: rgb(255, 255, 255);"></circle>
+      <text x="-10" dy=".35em" class="nodeText" text-anchor="end" style="fill-opacity: 1;">aggregationHashChain</text>
+    </g>
+    <g class="node" transform="translate(350, 253.07691955566406)">
+      <circle class="nodeCircle" r="4.5" cursor="pointer" style="fill: rgb(253, 202, 199);"></circle>
+      <text x="-10" dy=".35em" class="nodeText" text-anchor="end" style="fill-opacity: 1;">aggregationHashChain</text>
+    </g>
+    <g class="node" transform="translate(350, 359.2788391113281)">
+      <circle class="nodeCircle" r="4.5" cursor="pointer" style="fill: rgb(253, 202, 199);"></circle>
+      <text x="-10" dy=".35em" class="nodeText" text-anchor="end" style="fill-opacity: 1;">aggregationHashChain</text>
+    </g>
+    <g class="node" transform="translate(350, 465.48077392578125)">
+      <circle class="nodeCircle" r="4.5" cursor="pointer" style="fill: rgb(253, 202, 199);"></circle>
+      <text x="-10" dy=".35em" class="nodeText" text-anchor="end" style="fill-opacity: 1;">aggregationHashChain</text>
+    </g>
+    <g class="node" transform="translate(350, 571.6826782226562)">
+      <circle class="nodeCircle" r="4.5" cursor="pointer" style="fill: rgb(253, 202, 199);"></circle>
+      <text x="-10" dy=".35em" class="nodeText" text-anchor="end" style="fill-opacity: 1;">aggregationHashChain</text>
+    </g>
+    <g class="node" transform="translate(350, 677.8846435546875)">
+      <circle class="nodeCircle" r="4.5" cursor="pointer" style="fill: rgb(255, 255, 255);"></circle>
+      <text x="-10" dy=".35em" class="nodeText" text-anchor="end" style="fill-opacity: 1;">calendarHashChain</text>
+    </g>
+    <g class="node" transform="translate(350, 1118.5096435546875)">
+      <circle class="nodeCircle" r="4.5" cursor="pointer" style="fill: rgb(255, 255, 255);"></circle>
+      <text x="-10" dy=".35em" class="nodeText" text-anchor="end" style="fill-opacity: 1;">signaturePublicationRecord</text>
+    </g>
+    <g class="node" transform="translate(700, 22.596153259277344)">
+      <circle class="nodeCircle" r="4.5" cursor="pointer" style="fill: rgb(255, 255, 255);"></circle>
+      <text x="10" dy=".35em" class="nodeText" text-anchor="start" style="fill-opacity: 1;">aggregationAlgorithm: SHA2_256</text>
+    </g>
+    <g class="node" transform="translate(700, 45.19230651855469)">
+      <circle class="nodeCircle" r="4.5" cursor="pointer" style="fill: rgb(255, 255, 255);"></circle>
+      <text x="10" dy=".35em" class="nodeText" text-anchor="start" style="fill-opacity: 1;">aggregationTime: Thu Feb 18 16:12:41 GMT 2016</text>
+    </g>
+    <g class="node" transform="translate(700, 67.78845977783203)">
+      <circle class="nodeCircle" r="4.5" cursor="pointer" style="fill: rgb(255, 255, 255);"></circle>
+      <text x="10" dy=".35em" class="nodeText" text-anchor="start" style="fill-opacity: 1;">inputData</text>
+    </g>
+    <g class="node" transform="translate(700, 90.38461303710938)">
+      <circle class="nodeCircle" r="4.5" cursor="pointer" style="fill: rgb(255, 255, 255);"></circle>
+      <text x="-10" dy=".35em" class="nodeText" text-anchor="end" style="fill-opacity: 1;">inputHash</text>
+    </g>
+    <g class="node" transform="translate(700, 135.57691955566406)">
+      <circle class="nodeCircle" r="4.5" cursor="pointer" style="fill: rgb(255, 255, 255);"></circle>
+      <text x="-10" dy=".35em" class="nodeText" text-anchor="end" style="fill-opacity: 1;">outputHash</text>
+    </g>
+    <g class="node" transform="translate(700, 158.17308044433594)">
+      <circle class="nodeCircle" r="4.5" cursor="pointer" style="fill: rgb(255, 255, 255);"></circle>
+      <text x="10" dy=".35em" class="nodeText" text-anchor="start" style="fill-opacity: 1;">chainIndex: 14</text>
+    </g>
+    <g class="node" transform="translate(700, 180.76922607421875)">
+      <circle class="nodeCircle" r="4.5" cursor="pointer" style="fill: rgb(255, 255, 255);"></circle>
+      <text x="10" dy=".35em" class="nodeText" text-anchor="start" style="fill-opacity: 1;">chainIndex: 887</text>
+    </g>
+    <g class="node" transform="translate(700, 203.36538696289062)">
+      <circle class="nodeCircle" r="4.5" cursor="pointer" style="fill: rgb(255, 255, 255);"></circle>
+      <text x="10" dy=".35em" class="nodeText" text-anchor="start" style="fill-opacity: 1;">chainIndex: 979</text>
+    </g>
+    <g class="node" transform="translate(700, 225.96153259277344)">
+      <circle class="nodeCircle" r="4.5" cursor="pointer" style="fill: rgb(255, 255, 255);"></circle>
+      <text x="10" dy=".35em" class="nodeText" text-anchor="start" style="fill-opacity: 1;">chainIndex: 3687</text>
+    </g>
+    <g class="node" transform="translate(700, 248.5576934814453)">
+      <circle class="nodeCircle" r="4.5" cursor="pointer" style="fill: rgb(255, 255, 255);"></circle>
+      <text x="10" dy=".35em" class="nodeText" text-anchor="start" style="fill-opacity: 1;">chainIndex: 3</text>
+    </g>
+    <g class="node" transform="translate(700, 271.1538391113281)">
+      <circle class="nodeCircle" r="4.5" cursor="pointer" style="fill: rgb(253, 202, 199);"></circle>
+      <text x="-10" dy=".35em" class="nodeText" text-anchor="end" style="fill-opacity: 1;">rightLink</text>
+    </g>
+    <g class="node" transform="translate(700, 316.3461608886719)">
+      <circle class="nodeCircle" r="4.5" cursor="pointer" style="fill: rgb(255, 255, 255);"></circle>
+      <text x="10" dy=".35em" class="nodeText" text-anchor="start" style="fill-opacity: 1;">publicationTime: Tue Mar 15 00:00:00 GMT 2016</text>
+    </g>
+    <g class="node" transform="translate(700, 338.94232177734375)">
+      <circle class="nodeCircle" r="4.5" cursor="pointer" style="fill: rgb(255, 255, 255);"></circle>
+      <text x="10" dy=".35em" class="nodeText" text-anchor="start" style="fill-opacity: 1;">aggregationTime: Thu Feb 18 16:12:41 GMT 2016</text>
+    </g>
+    <g class="node" transform="translate(700, 361.5384521484375)">
+      <circle class="nodeCircle" r="4.5" cursor="pointer" style="fill: rgb(255, 255, 255);"></circle>
+      <text x="-10" dy=".35em" class="nodeText" text-anchor="end" style="fill-opacity: 1;">inputHash</text>
+    </g>
+    <g class="node" transform="translate(700, 406.73077392578125)">
+      <circle class="nodeCircle" r="4.5" cursor="pointer" style="fill: rgb(255, 255, 255);"></circle>
+      <text x="-10" dy=".35em" class="nodeText" text-anchor="end" style="fill-opacity: 1;">outputHash</text>
+    </g>
+    <g class="node" transform="translate(700, 429.3269348144531)">
+      <circle class="nodeCircle" r="4.5" cursor="pointer" style="fill: rgb(253, 202, 199);"></circle>
+      <text x="-10" dy=".35em" class="nodeText" text-anchor="end" style="fill-opacity: 1;">rightLink</text>
+    </g>
+    <g class="node" transform="translate(700, 451.9230651855469)">
+      <circle class="nodeCircle" r="4.5" cursor="pointer" style="fill: rgb(253, 202, 199);"></circle>
+      <text x="-10" dy=".35em" class="nodeText" text-anchor="end" style="fill-opacity: 1;">leftLink</text>
+    </g>
+    <g class="node" transform="translate(700, 474.51922607421875)">
+      <circle class="nodeCircle" r="4.5" cursor="pointer" style="fill: rgb(253, 202, 199);"></circle>
+      <text x="-10" dy=".35em" class="nodeText" text-anchor="end" style="fill-opacity: 1;">leftLink</text>
+    </g>
+    <g class="node" transform="translate(700, 497.1153869628906)">
+      <circle class="nodeCircle" r="4.5" cursor="pointer" style="fill: rgb(253, 202, 199);"></circle>
+      <text x="-10" dy=".35em" class="nodeText" text-anchor="end" style="fill-opacity: 1;">rightLink</text>
+    </g>
+    <g class="node" transform="translate(700, 519.7115478515625)">
+      <circle class="nodeCircle" r="4.5" cursor="pointer" style="fill: rgb(253, 202, 199);"></circle>
+      <text x="-10" dy=".35em" class="nodeText" text-anchor="end" style="fill-opacity: 1;">rightLink</text>
+    </g>
+    <g class="node" transform="translate(700, 542.3076782226562)">
+      <circle class="nodeCircle" r="4.5" cursor="pointer" style="fill: rgb(253, 202, 199);"></circle>
+      <text x="-10" dy=".35em" class="nodeText" text-anchor="end" style="fill-opacity: 1;">rightLink</text>
+    </g>
+    <g class="node" transform="translate(700, 564.9038696289062)">
+      <circle class="nodeCircle" r="4.5" cursor="pointer" style="fill: rgb(253, 202, 199);"></circle>
+      <text x="-10" dy=".35em" class="nodeText" text-anchor="end" style="fill-opacity: 1;">rightLink</text>
+    </g>
+    <g class="node" transform="translate(700, 587.5)">
+      <circle class="nodeCircle" r="4.5" cursor="pointer" style="fill: rgb(253, 202, 199);"></circle>
+      <text x="-10" dy=".35em" class="nodeText" text-anchor="end" style="fill-opacity: 1;">leftLink</text>
+    </g>
+    <g class="node" transform="translate(700, 610.0961303710938)">
+      <circle class="nodeCircle" r="4.5" cursor="pointer" style="fill: rgb(253, 202, 199);"></circle>
+      <text x="-10" dy=".35em" class="nodeText" text-anchor="end" style="fill-opacity: 1;">rightLink</text>
+    </g>
+    <g class="node" transform="translate(700, 632.6923217773438)">
+      <circle class="nodeCircle" r="4.5" cursor="pointer" style="fill: rgb(253, 202, 199);"></circle>
+      <text x="-10" dy=".35em" class="nodeText" text-anchor="end" style="fill-opacity: 1;">leftLink</text>
+    </g>
+    <g class="node" transform="translate(700, 655.2884521484375)">
+      <circle class="nodeCircle" r="4.5" cursor="pointer" style="fill: rgb(253, 202, 199);"></circle>
+      <text x="-10" dy=".35em" class="nodeText" text-anchor="end" style="fill-opacity: 1;">rightLink</text>
+    </g>
+    <g class="node" transform="translate(700, 677.8846435546875)">
+      <circle class="nodeCircle" r="4.5" cursor="pointer" style="fill: rgb(253, 202, 199);"></circle>
+      <text x="-10" dy=".35em" class="nodeText" text-anchor="end" style="fill-opacity: 1;">rightLink</text>
+    </g>
+    <g class="node" transform="translate(700, 700.4807739257812)">
+      <circle class="nodeCircle" r="4.5" cursor="pointer" style="fill: rgb(253, 202, 199);"></circle>
+      <text x="-10" dy=".35em" class="nodeText" text-anchor="end" style="fill-opacity: 1;">leftLink</text>
+    </g>
+    <g class="node" transform="translate(700, 723.076904296875)">
+      <circle class="nodeCircle" r="4.5" cursor="pointer" style="fill: rgb(253, 202, 199);"></circle>
+      <text x="-10" dy=".35em" class="nodeText" text-anchor="end" style="fill-opacity: 1;">rightLink</text>
+    </g>
+    <g class="node" transform="translate(700, 745.673095703125)">
+      <circle class="nodeCircle" r="4.5" cursor="pointer" style="fill: rgb(253, 202, 199);"></circle>
+      <text x="-10" dy=".35em" class="nodeText" text-anchor="end" style="fill-opacity: 1;">rightLink</text>
+    </g>
+    <g class="node" transform="translate(700, 768.2692260742188)">
+      <circle class="nodeCircle" r="4.5" cursor="pointer" style="fill: rgb(253, 202, 199);"></circle>
+      <text x="-10" dy=".35em" class="nodeText" text-anchor="end" style="fill-opacity: 1;">rightLink</text>
+    </g>
+    <g class="node" transform="translate(700, 790.8653564453125)">
+      <circle class="nodeCircle" r="4.5" cursor="pointer" style="fill: rgb(253, 202, 199);"></circle>
+      <text x="-10" dy=".35em" class="nodeText" text-anchor="end" style="fill-opacity: 1;">rightLink</text>
+    </g>
+    <g class="node" transform="translate(700, 813.4615478515625)">
+      <circle class="nodeCircle" r="4.5" cursor="pointer" style="fill: rgb(253, 202, 199);"></circle>
+      <text x="-10" dy=".35em" class="nodeText" text-anchor="end" style="fill-opacity: 1;">leftLink</text>
+    </g>
+    <g class="node" transform="translate(700, 836.0576782226562)">
+      <circle class="nodeCircle" r="4.5" cursor="pointer" style="fill: rgb(253, 202, 199);"></circle>
+      <text x="-10" dy=".35em" class="nodeText" text-anchor="end" style="fill-opacity: 1;">rightLink</text>
+    </g>
+    <g class="node" transform="translate(700, 858.6538696289062)">
+      <circle class="nodeCircle" r="4.5" cursor="pointer" style="fill: rgb(253, 202, 199);"></circle>
+      <text x="-10" dy=".35em" class="nodeText" text-anchor="end" style="fill-opacity: 1;">leftLink</text>
+    </g>
+    <g class="node" transform="translate(700, 881.25)">
+      <circle class="nodeCircle" r="4.5" cursor="pointer" style="fill: rgb(253, 202, 199);"></circle>
+      <text x="-10" dy=".35em" class="nodeText" text-anchor="end" style="fill-opacity: 1;">leftLink</text>
+    </g>
+    <g class="node" transform="translate(700, 903.8461303710938)">
+      <circle class="nodeCircle" r="4.5" cursor="pointer" style="fill: rgb(253, 202, 199);"></circle>
+      <text x="-10" dy=".35em" class="nodeText" text-anchor="end" style="fill-opacity: 1;">leftLink</text>
+    </g>
+    <g class="node" transform="translate(700, 926.4423217773438)">
+      <circle class="nodeCircle" r="4.5" cursor="pointer" style="fill: rgb(253, 202, 199);"></circle>
+      <text x="-10" dy=".35em" class="nodeText" text-anchor="end" style="fill-opacity: 1;">rightLink</text>
+    </g>
+    <g class="node" transform="translate(700, 949.0384521484375)">
+      <circle class="nodeCircle" r="4.5" cursor="pointer" style="fill: rgb(253, 202, 199);"></circle>
+      <text x="-10" dy=".35em" class="nodeText" text-anchor="end" style="fill-opacity: 1;">rightLink</text>
+    </g>
+    <g class="node" transform="translate(700, 971.6346435546875)">
+      <circle class="nodeCircle" r="4.5" cursor="pointer" style="fill: rgb(253, 202, 199);"></circle>
+      <text x="-10" dy=".35em" class="nodeText" text-anchor="end" style="fill-opacity: 1;">rightLink</text>
+    </g>
+    <g class="node" transform="translate(700, 994.2307739257812)">
+      <circle class="nodeCircle" r="4.5" cursor="pointer" style="fill: rgb(253, 202, 199);"></circle>
+      <text x="-10" dy=".35em" class="nodeText" text-anchor="end" style="fill-opacity: 1;">rightLink</text>
+    </g>
+    <g class="node" transform="translate(700, 1016.826904296875)">
+      <circle class="nodeCircle" r="4.5" cursor="pointer" style="fill: rgb(253, 202, 199);"></circle>
+      <text x="-10" dy=".35em" class="nodeText" text-anchor="end" style="fill-opacity: 1;">rightLink</text>
+    </g>
+    <g class="node" transform="translate(700, 1039.423095703125)">
+      <circle class="nodeCircle" r="4.5" cursor="pointer" style="fill: rgb(253, 202, 199);"></circle>
+      <text x="-10" dy=".35em" class="nodeText" text-anchor="end" style="fill-opacity: 1;">rightLink</text>
+    </g>
+    <g class="node" transform="translate(700, 1084.6153564453125)">
+      <circle class="nodeCircle" r="4.5" cursor="pointer" style="fill: rgb(255, 255, 255);"></circle>
+      <text x="-10" dy=".35em" class="nodeText" text-anchor="end" style="fill-opacity: 1;">publicationData</text>
+    </g>
+    <g class="node" transform="translate(700, 1107.2115478515625)">
+      <circle class="nodeCircle" r="4.5" cursor="pointer" style="fill: rgb(255, 255, 255);"></circle>
+      <text x="10" dy=".35em" class="nodeText" text-anchor="start" style="fill-opacity: 1;">publicationReference: Financial Times, ISSN: 0307-1766, 2016-03-17
+      </text>
+    </g>
+    <g class="node" transform="translate(700, 1129.8077392578125)">
+      <circle class="nodeCircle" r="4.5" cursor="pointer" style="fill: rgb(255, 255, 255);"></circle>
+      <text x="10" dy=".35em" class="nodeText" text-anchor="start" style="fill-opacity: 1;">publicationReference: Äripäev, ISSN: 1406-2585, 17.03.2016</text>
+    </g>
+    <g class="node" transform="translate(700, 1152.40380859375)">
+      <circle class="nodeCircle" r="4.5" cursor="pointer" style="fill: rgb(255, 255, 255);"></circle>
+      <text x="10" dy=".35em" class="nodeText" text-anchor="start" style="fill-opacity: 1;">publicationReference:
+        https://twitter.com/Guardtime/status/710536325863251969
+      </text>
+    </g>
+    <g class="node" transform="translate(800, 90.38461303710938)">
+      <circle class="nodeCircle" r="4.5" cursor="pointer" style="fill: rgb(255, 255, 255);"></circle>
+      <text x="-10" dy=".35em" class="nodeText" text-anchor="end" style="fill-opacity: 1;">hash</text>
+    </g>
+    <g class="node" transform="translate(800, 135.57691955566406)">
+      <circle class="nodeCircle" r="4.5" cursor="pointer" style="fill: rgb(255, 255, 255);"></circle>
+      <text x="-10" dy=".35em" class="nodeText" text-anchor="end" style="fill-opacity: 1;">hash</text>
+    </g>
+    <g class="node" transform="translate(800, 361.5384521484375)">
+      <circle class="nodeCircle" r="4.5" cursor="pointer" style="fill: rgb(255, 255, 255);"></circle>
+      <text x="-10" dy=".35em" class="nodeText" text-anchor="end" style="fill-opacity: 1;">hash</text>
+    </g>
+    <g class="node" transform="translate(800, 406.73077392578125)">
+      <circle class="nodeCircle" r="4.5" cursor="pointer" style="fill: rgb(255, 255, 255);"></circle>
+      <text x="-10" dy=".35em" class="nodeText" text-anchor="end" style="fill-opacity: 1;">hash</text>
+    </g>
+    <g class="node" transform="translate(1050, 1062.019287109375)">
+      <circle class="nodeCircle" r="4.5" cursor="pointer" style="fill: rgb(255, 255, 255);"></circle>
+      <text x="10" dy=".35em" class="nodeText" text-anchor="start" style="fill-opacity: 1;">publicationTime: Tue Mar 15 00:00:00 GMT 2016</text>
+    </g>
+    <g class="node" transform="translate(1050, 1084.6153564453125)">
+      <circle class="nodeCircle" r="4.5" cursor="pointer" style="fill: rgb(255, 255, 255);"></circle>
+      <text x="-10" dy=".35em" class="nodeText" text-anchor="end" style="fill-opacity: 1;">publicationHash</text>
+    </g>
+    <g class="node" transform="translate(1050, 1107.2115478515625)">
+      <circle class="nodeCircle" r="4.5" cursor="pointer" style="fill: rgb(255, 255, 255);"></circle>
+      <text x="10" dy=".35em" class="nodeText" text-anchor="start" style="fill-opacity: 1;">publicationString:
+        AAAAAA-CW45II-AAKWRK-F7FBNM-KB6FNV-DYYFW7-PJQN6F-JKZWBQ-3OQYZO-HCB7RA-YNYAGA-ODRL2V
+      </text>
+    </g>
+    <g class="node" transform="translate(900, 90.38461303710938)">
+      <circle class="nodeCircle" r="4.5" cursor="pointer" style="fill: rgb(255, 255, 255);"></circle>
+      <text x="10" dy=".35em" class="nodeText" text-anchor="start" style="fill-opacity: 1;">dataHash:
+        D75FD793549D6CEB2936F1F106B1D4F84C24AAF97F8367E67A051AE5A03EA18F
+      </text>
+    </g>
+    <g class="node" transform="translate(900, 135.57691955566406)">
+      <circle class="nodeCircle" r="4.5" cursor="pointer" style="fill: rgb(255, 255, 255);"></circle>
+      <text x="10" dy=".35em" class="nodeText" text-anchor="start" style="fill-opacity: 1;">dataHash:
+        F97652AD6AEF64BC1DD5B04155FA99670E0A6EEF3C2A031FE0B11B45B8D3371F
+      </text>
+    </g>
+    <g class="node" transform="translate(900, 361.5384521484375)">
+      <circle class="nodeCircle" r="4.5" cursor="pointer" style="fill: rgb(255, 255, 255);"></circle>
+      <text x="10" dy=".35em" class="nodeText" text-anchor="start" style="fill-opacity: 1;">dataHash:
+        96FF8C6FAFC3FC3511867C1419B879801DB5B526426EE2493044F8F0DB102E49
+      </text>
+    </g>
+    <g class="node" transform="translate(900, 406.73077392578125)">
+      <circle class="nodeCircle" r="4.5" cursor="pointer" style="fill: rgb(255, 255, 255);"></circle>
+      <text x="10" dy=".35em" class="nodeText" text-anchor="start" style="fill-opacity: 1;">dataHash:
+        568A8BF285AC507C56D478C16DF7A60DF152ACD830DBA18CB8E20FE20C370030
+      </text>
+    </g>
+    <g class="node" transform="translate(1150, 1084.6153564453125)">
+      <circle class="nodeCircle" r="4.5" cursor="pointer" style="fill: rgb(255, 255, 255);"></circle>
+      <text x="-10" dy=".35em" class="nodeText" text-anchor="end" style="fill-opacity: 1;">hash</text>
+    </g>
+    <g class="node" transform="translate(1250, 1084.6153564453125)">
+      <circle class="nodeCircle" r="4.5" cursor="pointer" style="fill: rgb(255, 255, 255);"></circle>
+      <text x="10" dy=".35em" class="nodeText" text-anchor="start" style="fill-opacity: 1;">dataHash:
+        568A8BF285AC507C56D478C16DF7A60DF152ACD830DBA18CB8E20FE20C370030
+      </text>
+    </g>
+  </g>
+</svg>

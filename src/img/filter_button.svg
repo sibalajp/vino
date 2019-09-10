@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <g id="Filter_Button" data-name="Filter Button" transform="translate(-931 -137)">
+    <circle id="Background" cx="20" cy="20" r="20" transform="translate(931 137)" fill="#fff"/>
+    <path id="ic_filter_list_24px" d="M10,18h4V16H10ZM3,6V8H21V6Zm3,7H18V11H6Z" transform="translate(939 145)" fill="#333"/>
+  </g>
+</svg>

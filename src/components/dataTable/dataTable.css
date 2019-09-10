@@ -1,0 +1,60 @@
+/* Antd library module classes */
+
+.ant-pagination-options {
+    margin-right: 50px !important;
+    vertical-align: middle;
+    float: left !important;
+    border: none !important;
+}
+
+.ant-pagination-item-link {
+    border: none !important;
+}
+
+.ant-pagination {
+    font-size: 16px;
+}
+
+.ant-pagination-item {
+    border: none !important;
+}
+
+.ant-pagination-prev .ant-pagination-item-link, 
+.ant-pagination-next .ant-pagination-item-link {
+    font-size: 16px;
+}
+
+.ant-select {
+    font-size: 16px;
+}
+
+.ant-select-selection {
+    border: none !important;
+}
+
+.ant-table {
+    font-size: 16px;
+}
+
+.ant-table-wrapper {
+    border: 1px solid #DADCE0;
+    border-radius: 4px;
+}
+
+.ant-table-thead > tr > th, 
+.ant-table-tbody > tr > td {
+    border-color: #DADCE0;
+}
+
+.data-table .ant-pagination-item {
+    display: none;
+}
+
+.data-table .ant-pagination-options:before {
+    content: "Rows per page:"
+}
+
+.data-table .ant-table-pagination {
+    padding-right: 1%;
+}
+
