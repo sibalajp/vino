@@ -13,7 +13,7 @@
     "install": "^0.13.0",
     "moment": "^2.24.0",
     "moment-timezone": "^0.5.26",
-    "npm": "^6.10.3",
+    "npm": "^6.14.6",
     "points-cluster": "^0.1.4",
     "prop-types": "^15.7.2",
     "react": "^16.8.6",
